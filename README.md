@@ -4,7 +4,7 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-h/)  
 
 - 🔭 Atualmente estou trabalhando com Progress Abl, html, css, Javascript.
-- 🌱 Estou focando meus estudos em aprimorar meus conceitos em Javascript e Typescript, e aprender Angular.js
+- 🌱 Estou focando meus estudos em aprimorar meus conceitos em C# 
 - 📫 Email para contato: brunolmeida@outlook.com
 
 <div> 
