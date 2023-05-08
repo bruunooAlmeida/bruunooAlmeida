@@ -6,11 +6,12 @@
 - 🔭 Atualmente estou trabalhando com Progress Abl, html, css, Javascript.
 - 🌱 Estou focando meus estudos em aprimorar meus conhecimentos em C#, na area de backend
 - 📫 Email para contato: brunolmeida@outlook.com 
+<div  style="Display: flex; flex-wrap: nowrap; flex-direction: row;" >
+    <img src="https://github-readme-stats.vercel.app/api?username=bruunooAlmeida&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruunooAlmeida&hide=html&layout=compact=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)">
+</div>
 
     
-    [![card](https://github-readme-stats.vercel.app/api?username=bruunooAlmeida&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-    
-    [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=bruunooAlmeida&hide=html&layout=compact=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)   
 ## 🚀 Minhas Skills
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
