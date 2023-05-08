@@ -7,11 +7,10 @@
 - 🌱 Estou focando meus estudos em aprimorar meus conceitos em C# 
 - 📫 Email para contato: brunolmeida@outlook.com
 
-<div> 
-  <a href="https://github.com/bruunooAlmeida">
+  
     [![card](https://github-readme-stats.vercel.app/api?username=bruunooAlmeida&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
     [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=bruunooAlmeida&hide=html&layout=compact=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)   
-</div>
+
 
 ## Tecnologias que possuo conhecimento
 <div style="display: inline_block"><br>
