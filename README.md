@@ -9,8 +9,8 @@
 
 <div> 
   <a href="https://github.com/bruunooAlmeida">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruunooAlmeida&show_icons=true&theme=gotham&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruunooAlmeida&layout=compact&langs_count=10&theme=gotham"/>
+    [![card](https://github-readme-stats.vercel.app/api?username=bruunooAlmeida&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+    [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=bruunooAlmeida&hide=html&layout=compact=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)   
 </div>
 
 ## Tecnologias que possuo conhecimento
