@@ -27,4 +27,3 @@
    Apaixonado por tecnologia, buscando evoluir Sempre
 </div>
 
-![Snake animation](https://github.com/ThiagoBussola/ThiagoBussola/blob/output/github-contribution-grid-snake.svg)
