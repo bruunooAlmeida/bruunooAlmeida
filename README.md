@@ -6,10 +6,12 @@
 - 🔭 Atualmente estou trabalhando com Progress Abl, html, css, Javascript.
 - 🌱 Estou focando meus estudos em aprimorar meus conhecimentos em C#, na area de backend
 - 📫 Email para contato: brunolmeida@outlook.com 
-<div  style="Display: flex; flex-wrap: nowrap; flex-direction: row;" >
-    <img src="https://github-readme-stats.vercel.app/api?username=bruunooAlmeida&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)">    
-    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=bruunooAlmeida&hide=html&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=bruunooAlmeida&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)">    
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=bruunooAlmeida&hide=html&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)>
+</a>
 
     
 ## 🚀 Minhas Skills
